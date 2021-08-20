@@ -6,6 +6,8 @@
 
 :boom: I co-created the [RAPIDS cuCIM](https://github.com/rapidsai/cucim) project for GPU-accelerated image processing via a scikit-image compatible API. This relies on the excellent [CuPy](https://cupy.dev/) project.
 
+:brain: Python has a number of nice neuroimaging-focused projects. [Dipy](https://dipy.org), [nibabel](https://nipy.org/nibabel/) and [nipype](https://nipype.readthedocs.io/en/latest/) were some of the first packages I worked with when I was new to Python.
+
 :school: I have a doctorate in biomedical engineering and worked for a number of years as a [researcher in magnetic reonance imaging (MRI)](https://scholar.google.com/citations?user=coICoqQAAAAJ&hl=en&authuser=1). I have a general interest in the area of medical imaging and image processing.
 
 💬 Ask me about contributing to open source projects or how you can accelerate your image/data analysis workflows.
