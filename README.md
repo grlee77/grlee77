@@ -1,6 +1,6 @@
 ### Hi there, I am Greg Lee 👋
 
-:computer: I am an open source developer at [Quansight](https://www.quansight.com/) who also works on [Quansight Labs](https://labs.quansight.org/) projects.
+:computer: I am a software developer at [NVIDIA](https://nvidia.com) who works on open source scientific software.
 
 :microscope: I am a core maintainer of [scikit-image](https://scikit-image.org), [SciPy](https://scipy.org/) and [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) and contributor to many other scientific software projects. 
 
